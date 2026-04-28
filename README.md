@@ -156,7 +156,3 @@ Run the backup:
 
 This will compress your entire world and configuration into a `.tar.gz` file inside a newly created `backups` directory, tagged with the current date and time.
 
-This is how it should appear in the menu and the image within the server:
-
-![Server Image](image-1.png)
-![Menu Appearance](image.png)
