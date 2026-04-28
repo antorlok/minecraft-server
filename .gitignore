@@ -1,0 +1,8 @@
+# Ignore server data (World, heavy configurations)
+/data/
+
+# Ignore generated backups
+/backups/
+
+# Optional: ignore environment files if you create a .env in the future
+.env
